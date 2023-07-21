@@ -421,6 +421,6 @@ justify-content: center;
         
     }
     nav a{
-        text-align: start;
+        text-align: end;
     }
 }
