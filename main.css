@@ -69,7 +69,7 @@ nav
 {
     display: flex;
     gap: 24px;
-
+    
 }
 
 
@@ -421,6 +421,6 @@ justify-content: center;
         
     }
     nav a{
-        align-self: center;
+        text-align: start;
     }
 }
